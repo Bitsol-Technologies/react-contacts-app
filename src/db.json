@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "first": "John",
+      "last": "Snobar",
+      "twitter": "john@twitter.com",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/180/180691.png",
+      "notes": "Working for an IT Firm in Islamabad",
+      "id": "3"
+    },
+    {
+      "first": "Jimmy",
+      "last": "Snow",
+      "twitter": "jimmy@twitter.com",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/3868/3868196.png",
+      "notes": "Working for an IT Firm in Rwp",
+      "id": "4"
+    },
+    {
+      "first": "John",
+      "last": "Kemry",
+      "twitter": "jimmy@twitter.com",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/180/180692.png",
+      "notes": "Working for an IT Firm in Rwp",
+      "id": "2",
+      "favorite": false
+    }
+  ]
+}
